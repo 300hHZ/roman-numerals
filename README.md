@@ -2,7 +2,7 @@
 
 ## _This project is not in a complete or portfolio ready state, and should not be considered representational of professional work._
 
-Epicodus - C# and .NET - Week  - Lesson 
+Epicodus - C# and .NET - Week 3 - Lesson 33
 
 Initialization Date:
 
@@ -11,7 +11,7 @@ Initialization Date:
 Program that converts numbers into Roman Numerals
 
 ### Practice Exercise:
-This project is an exercise in creating MVC projects using appropriate file structure and conventions
+This project is an exercise in using loops to iterate through each digit
 
 ### Specifications
 ```
